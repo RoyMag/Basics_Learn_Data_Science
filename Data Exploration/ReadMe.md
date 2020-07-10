@@ -1,15 +1,15 @@
 Learning the various data exploration techniques and implementation step-by-step
 
- Reading the data into Python
+1) Reading the data into Python
  
-Variable Identification
+2) Variable Identification
 
-Univariate Analysis
+3) Univariate Analysis
 
-Bivariate Analysis
+4) Bivariate Analysis
 
-Missing Values Detection and Treatment
+5) Missing Values Detection and Treatment
 
-Outlier Detection and Treatment
+6) Outlier Detection and Treatment
 
-Variable Transformation
+7) Variable Transformation
