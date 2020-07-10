@@ -1,6 +1,6 @@
 Learning the various data exploration techniques and implementation step-by-step
 
-Reading the data into Python
+ Reading the data into Python
  
 Variable Identification
 
